@@ -1,0 +1,22 @@
+{
+  "name": "currency-converterr-kc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamlesh-chandel/npm-demo.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "kamlesh chandel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamlesh-chandel/npm-demo/issues"
+  },
+  "homepage": "https://github.com/kamlesh-chandel/npm-demo#readme"
+}
